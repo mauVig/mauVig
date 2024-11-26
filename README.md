@@ -14,6 +14,7 @@ In high school I had programming classes and we worked a lot with Visual Basic, 
 <h1 align="left">🔥 <a href="https://www.maurovigliero.com.ar/">Maurovigliero.com.ar</a></h1>
 
 ## Lenguage
+<p align="center"> 
   <img src="https://user-images.githubusercontent.com/59575502/127426309-0b2bbd98-9756-4798-ad10-f60da4a4d5fb.png" alt="html5" width="25" height="25" />
   <img src="https://user-images.githubusercontent.com/59575502/127426315-abe01b56-a385-455d-9caf-40bc7022a3d3.png" alt="css3" width="25" height="25" />
   <img src="https://user-images.githubusercontent.com/59575502/127426312-4a7a6d79-4b40-4b06-8c94-824ea3e8410e.png" alt="javascript" width="25" height="25" />
@@ -21,7 +22,7 @@ In high school I had programming classes and we worked a lot with Visual Basic, 
   <img src="https://user-images.githubusercontent.com/59575502/127428631-5ab21a62-ac89-4919-9408-724df88ab245.png" alt="nodejs" width="25" height="25" />
   <img src="https://user-images.githubusercontent.com/59575502/127426153-6f6d6c91-9778-43d9-a1df-95df61f23438.png" alt="mongodb" width="25" height="25" />
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Astro.png" alt="Astro" width="25" height="25" />
-  
+  </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/59575502/127426751-01af6b81-3523-47d2-95b8-6166f9c3c3aa.png" alt="c" width="25" height="25" />
   <img src="https://user-images.githubusercontent.com/59575502/127427976-be2bc801-ad71-4480-bda4-a6f64926cb7b.png" alt="linux" width="25" height="25" />
