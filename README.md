@@ -4,7 +4,7 @@
 Hi, nice to meet you. Let me introduce my profile in a few lines.
   <ul>
     <li>👨‍🔧 I'm a <b>Full-Stack developer</b></li>
-    <li>📍 I came from <b>Buenos Aires, Argentina</b></li>
+    <li>📍  I came from <b>Buenos Aires, Argentina</b></li>
     <li>💬 You can ask me about <b>Web page development</b></li>
     <li>📮 You can contact me directly here: <b>Mauro.vigliero@yahoo.com</b>
   </ul>
