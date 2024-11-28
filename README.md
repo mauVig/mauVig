@@ -6,7 +6,7 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
     <li>👨‍🔧 &nbspI'm a <b>Full-Stack developer</b></li>
     <li>📍&nbsp &nbsp Came from <b>Buenos Aires, Argentina</b></li>
     <li>💬 &nbspYou can ask me about <b>Web page development</b></li>
-    <li>📮&nbsp &nbspYou can contact me directly here: <b>Mauro.vigliero@yahoo.com</b>
+    <li>📮&nbsp &nbspYou can contact me directly here: <b>mauro.vigliero@yahoo.com</b>
   </ul>
 In high school I had programming classes and we worked a lot with Visual Basic, then after finishing school I dedicated myself to the world of art playing in several bands. Then I studied voice-over at ISER and graduated in 2018. Then during the pandemic in 2020, I began a career in <b>web design and programming</b> at the <b>Da Vinci school</b>. And since that year I began to study different types of programming languages. And now I can combine art with development, and combine both professions to be able to create websites as an artistic expression.
 </p>
